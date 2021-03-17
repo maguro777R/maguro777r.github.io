@@ -2,6 +2,10 @@
 
 ![プロフィール写真](まぐろーくん勉強.jpg)
 
+<script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm7146062/script?w=640&h=360"></script><noscript><a href="https://www.nicovideo.jp/watch/sm7146062">【バトレボ実況】第一回　厨ポケ狩り講座！</a></noscript>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6evKIXJYgeI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # About  
 
 プログラミング勉強中です！  
