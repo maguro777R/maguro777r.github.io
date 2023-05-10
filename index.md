@@ -2,9 +2,9 @@
 
 ![プロフィール写真](まぐろーくん勉強.jpg)
 
-<script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm7146062/script?w=640&h=360"></script><noscript><a href="https://www.nicovideo.jp/watch/sm7146062">【バトレボ実況】第一回　厨ポケ狩り講座！</a></noscript>
+# 好きな動画
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6evKIXJYgeI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm7146062/script?w=640&h=360"></script><noscript><a href="https://www.nicovideo.jp/watch/sm7146062">【バトレボ実況】第一回　厨ポケ狩り講座！</a></noscript>
 
 <a class="twitter-timeline" data-width="400" data-height="600" href="https://twitter.com/MaguroK7656?ref_src=twsrc%5Etfw">Tweets by MaguroK7656</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
